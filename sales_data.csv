@@ -1,0 +1,301 @@
+OrderID,Date,Region,SalesRep,Product,Category,Units,UnitPrice,Discount,Revenue,Cost,Profit,Channel,Year,Month,Quarter
+ORD1000,2024-04-12,North,Amit,Refrigerator,Home Appliances,4,1657.95,0.0,6631.8,4786.07,1845.73,Online,2024,4,2
+ORD1001,2025-03-11,South,Priya,T-Shirt,Apparel,4,1529.64,0.0,6118.56,4694.35,1424.21,Distributor,2025,3,1
+ORD1002,2024-09-27,West,Amit,Smartphone,Electronics,3,2739.92,0.0,8219.76,5021.46,3198.3,Online,2024,9,3
+ORD1003,2024-04-16,South,Amit,T-Shirt,Apparel,3,1698.39,0.0,5095.17,4182.49,912.68,Distributor,2024,4,2
+ORD1004,2024-03-12,Central,Ramesh,Washing Machine,Home Appliances,4,1668.2,0.1,6005.52,4129.37,1876.15,Distributor,2024,3,1
+ORD1005,2024-01-21,East,Amit,Headphones,Accessories,2,1525.31,0.1,2745.56,2035.13,710.43,Retail,2024,1,1
+ORD1006,2025-09-06,East,Rahul,Washing Machine,Home Appliances,3,926.14,0.05,2639.5,1843.6,795.9,Online,2025,9,3
+ORD1007,2024-05-01,North,Ramesh,Laptop,Electronics,2,2694.8,0.05,5120.12,4377.26,742.86,Retail,2024,5,2
+ORD1008,2025-04-11,Central,Vikram,Smartphone,Electronics,2,1099.06,0.1,1978.31,1549.55,428.76,Distributor,2025,4,2
+ORD1009,2024-08-02,North,Ramesh,Laptop,Electronics,3,2233.86,0.15,5696.34,4029.63,1666.71,Retail,2024,8,3
+ORD1010,2024-11-26,Central,Anita,Jeans,Apparel,2,1417.35,0.0,2834.7,1736.8,1097.9,Distributor,2024,11,4
+ORD1011,2025-04-03,North,Amit,Washing Machine,Home Appliances,2,1156.41,0.05,2197.18,1722.39,474.79,Online,2025,4,2
+ORD1012,2024-03-28,South,Priya,Desk Lamp,Furniture,3,1574.92,0.05,4488.52,3130.45,1358.07,Retail,2024,3,1
+ORD1013,2025-01-07,East,Rahul,Office Chair,Furniture,1,1570.45,0.05,1491.93,1061.34,430.59,Online,2025,1,1
+ORD1014,2024-04-09,East,Priya,Jeans,Apparel,4,1476.18,0.0,5904.72,4785.81,1118.91,Distributor,2024,4,2
+ORD1015,2025-10-25,South,Rahul,Running Shoes,Footwear,2,1759.35,0.1,3166.83,2726.56,440.27,Retail,2025,10,4
+ORD1016,2024-05-10,Central,Sneha,Office Chair,Furniture,2,1446.4,0.0,2892.8,2049.2,843.6,Online,2024,5,2
+ORD1017,2025-10-23,North,Anita,Desk Lamp,Furniture,3,1256.89,0.05,3582.14,2338.64,1243.5,Online,2025,10,4
+ORD1018,2024-11-04,South,Anita,Washing Machine,Home Appliances,3,1442.26,0.1,3894.1,2855.44,1038.66,Retail,2024,11,4
+ORD1019,2024-12-09,West,Rahul,Refrigerator,Home Appliances,1,1915.85,0.0,1915.85,1237.1,678.75,Online,2024,12,4
+ORD1020,2025-05-06,Central,Vikram,Jeans,Apparel,5,908.21,0.1,4086.95,2861.05,1225.9,Distributor,2025,5,2
+ORD1021,2025-02-17,West,Anita,Washing Machine,Home Appliances,2,1614.49,0.0,3228.98,2013.4,1215.58,Distributor,2025,2,1
+ORD1022,2025-01-20,West,Priya,Smartphone,Electronics,3,1725.37,0.0,5176.11,3706.97,1469.14,Online,2025,1,1
+ORD1023,2024-07-10,South,Ramesh,Jeans,Apparel,2,2048.4,0.0,4096.8,3430.2,666.6,Retail,2024,7,3
+ORD1024,2024-10-03,West,Deepa,T-Shirt,Apparel,3,1500.91,0.05,4277.59,3308.81,968.78,Distributor,2024,10,4
+ORD1025,2024-06-09,North,Priya,T-Shirt,Apparel,8,1877.97,0.05,14272.57,11167.79,3104.78,Distributor,2024,6,2
+ORD1026,2025-04-04,East,Priya,Refrigerator,Home Appliances,1,1740.61,0.1,1566.55,1316.75,249.8,Online,2025,4,2
+ORD1027,2024-11-09,West,Amit,Refrigerator,Home Appliances,3,1733.53,0.15,4420.5,3476.54,943.96,Online,2024,11,4
+ORD1028,2024-01-22,Central,Priya,Refrigerator,Home Appliances,2,1555.15,0.15,2643.76,2127.88,515.88,Distributor,2024,1,1
+ORD1029,2024-09-09,South,Rahul,Office Chair,Furniture,4,1284.99,0.0,5139.96,3418.97,1720.99,Distributor,2024,9,3
+ORD1030,2025-07-14,Central,Amit,Jeans,Apparel,3,1724.32,0.05,4914.31,3812.44,1101.87,Retail,2025,7,3
+ORD1031,2025-04-19,North,Priya,Office Chair,Furniture,4,1460.63,0.05,5550.39,3692.02,1858.37,Online,2025,4,2
+ORD1032,2024-02-28,North,Sneha,Jeans,Apparel,3,732.97,0.0,2198.91,1693.08,505.83,Online,2024,2,1
+ORD1033,2025-05-25,West,Priya,T-Shirt,Apparel,3,1681.53,0.0,5044.59,3700.62,1343.97,Online,2025,5,2
+ORD1034,2025-11-12,West,Rahul,Refrigerator,Home Appliances,3,1696.02,0.15,4324.85,3913.7,411.15,Distributor,2025,11,4
+ORD1035,2025-04-20,West,Sneha,T-Shirt,Apparel,3,1437.74,0.0,4313.22,2686.82,1626.4,Distributor,2025,4,2
+ORD1036,2025-11-30,East,Ramesh,Office Chair,Furniture,3,2406.83,0.1,6498.44,6080.83,417.61,Distributor,2025,11,4
+ORD1037,2024-07-08,West,Priya,Washing Machine,Home Appliances,6,1702.29,0.0,10213.74,7141.07,3072.67,Online,2024,7,3
+ORD1038,2025-11-17,East,Amit,Jeans,Apparel,2,709.17,0.15,1205.59,1057.13,148.46,Online,2025,11,4
+ORD1039,2025-07-16,Central,Sneha,Smartphone,Electronics,5,2039.5,0.0,10197.5,7011.34,3186.16,Distributor,2025,7,3
+ORD1040,2025-07-20,North,Sneha,Laptop,Electronics,3,1490.33,0.0,4470.99,3051.73,1419.26,Retail,2025,7,3
+ORD1041,2024-08-31,North,Sneha,Refrigerator,Home Appliances,2,1915.98,0.1,3448.76,2687.36,761.4,Online,2024,8,3
+ORD1042,2025-05-19,Central,Rahul,Jeans,Apparel,7,1225.37,0.15,7290.95,5324.31,1966.64,Retail,2025,5,2
+ORD1043,2024-05-10,South,Deepa,Desk Lamp,Furniture,5,270.4,0.0,1352.0,920.27,431.73,Online,2024,5,2
+ORD1044,2025-04-29,North,Ramesh,Office Chair,Furniture,1,1921.79,0.1,1729.61,1189.32,540.29,Retail,2025,4,2
+ORD1045,2025-10-08,West,Amit,Laptop,Electronics,2,1466.84,0.0,2933.68,1976.2,957.48,Retail,2025,10,4
+ORD1046,2024-01-21,East,Priya,Washing Machine,Home Appliances,7,1062.22,0.0,7435.54,5085.28,2350.26,Online,2024,1,1
+ORD1047,2024-06-15,Central,Deepa,Headphones,Accessories,2,1382.58,0.1,2488.64,1927.5,561.14,Online,2024,6,2
+ORD1048,2024-09-30,East,Deepa,Washing Machine,Home Appliances,2,837.19,0.0,1674.38,1194.35,480.03,Retail,2024,9,3
+ORD1049,2025-01-22,Central,Priya,Smartphone,Electronics,1,1614.4,0.15,1372.24,1081.55,290.69,Online,2025,1,1
+ORD1050,2025-08-23,North,Sneha,Headphones,Accessories,3,1438.61,0.1,3884.25,3216.55,667.7,Retail,2025,8,3
+ORD1051,2024-11-11,West,Sneha,Desk Lamp,Furniture,2,1824.45,0.0,3648.9,2989.05,659.85,Online,2024,11,4
+ORD1052,2024-01-14,West,Amit,Desk Lamp,Furniture,2,2199.8,0.05,4179.62,3168.12,1011.5,Retail,2024,1,1
+ORD1053,2024-08-29,East,Ramesh,T-Shirt,Apparel,4,1276.29,0.1,4594.64,4121.35,473.29,Online,2024,8,3
+ORD1054,2024-12-11,South,Vikram,Washing Machine,Home Appliances,2,1671.23,0.0,3342.46,2632.11,710.35,Distributor,2024,12,4
+ORD1055,2025-07-18,Central,Amit,Office Chair,Furniture,5,2455.76,0.0,12278.8,8107.34,4171.46,Online,2025,7,3
+ORD1056,2024-12-05,Central,Deepa,T-Shirt,Apparel,2,1063.95,0.15,1808.71,1743.93,64.78,Online,2024,12,4
+ORD1057,2024-04-01,North,Priya,Headphones,Accessories,2,1164.49,0.0,2328.98,1553.82,775.16,Distributor,2024,4,2
+ORD1058,2025-01-01,North,Sneha,Desk Lamp,Furniture,1,50.0,0.0,50.0,40.39,9.61,Distributor,2025,1,1
+ORD1059,2025-03-30,South,Amit,Jeans,Apparel,4,1365.87,0.0,5463.48,4359.61,1103.87,Retail,2025,3,1
+ORD1060,2025-03-03,Central,Anita,Refrigerator,Home Appliances,3,1796.87,0.0,5390.61,4319.29,1071.32,Distributor,2025,3,1
+ORD1061,2025-05-23,East,Sneha,Refrigerator,Home Appliances,6,2106.41,0.1,11374.61,7870.61,3504.0,Online,2025,5,2
+ORD1062,2024-02-04,East,Deepa,Office Chair,Furniture,5,2452.95,0.0,12264.75,9800.98,2463.77,Online,2024,2,1
+ORD1063,2024-07-24,West,Priya,Laptop,Electronics,4,2113.8,0.15,7186.92,5170.06,2016.86,Online,2024,7,3
+ORD1064,2024-03-21,Central,Vikram,Headphones,Accessories,3,590.35,0.05,1682.5,1300.51,381.99,Online,2024,3,1
+ORD1065,2025-07-15,South,Anita,Refrigerator,Home Appliances,3,1957.3,0.0,5871.9,4547.3,1324.6,Retail,2025,7,3
+ORD1066,2025-01-22,Central,Vikram,Jeans,Apparel,2,1998.56,0.15,3397.55,2913.14,484.41,Online,2025,1,1
+ORD1067,2024-01-02,Central,Vikram,Laptop,Electronics,3,1882.34,0.0,5647.02,4548.38,1098.64,Retail,2024,1,1
+ORD1068,2025-01-24,North,Priya,T-Shirt,Apparel,2,1525.42,0.0,3050.84,2238.11,812.73,Retail,2025,1,1
+ORD1069,2025-07-19,East,Sneha,Office Chair,Furniture,3,1255.68,0.0,3767.04,2571.1,1195.94,Distributor,2025,7,3
+ORD1070,2024-04-15,East,Deepa,Refrigerator,Home Appliances,2,2482.13,0.0,4964.26,3613.56,1350.7,Online,2024,4,2
+ORD1071,2025-04-21,West,Vikram,Smartphone,Electronics,2,1901.39,0.0,3802.78,2284.14,1518.64,Retail,2025,4,2
+ORD1072,2025-02-05,South,Vikram,Headphones,Accessories,2,1589.06,0.1,2860.31,2333.21,527.1,Distributor,2025,2,1
+ORD1073,2025-07-09,West,Amit,Laptop,Electronics,4,2017.82,0.0,8071.28,6296.64,1774.64,Distributor,2025,7,3
+ORD1074,2024-06-10,South,Amit,Office Chair,Furniture,1,1933.42,0.15,1643.41,1522.38,121.03,Distributor,2024,6,2
+ORD1075,2024-07-20,South,Ramesh,Headphones,Accessories,1,1735.52,0.0,1735.52,1417.58,317.94,Retail,2024,7,3
+ORD1076,2024-09-26,East,Amit,Office Chair,Furniture,3,1114.46,0.0,3343.38,2477.42,865.96,Distributor,2024,9,3
+ORD1077,2024-09-27,South,Priya,Office Chair,Furniture,2,1788.09,0.15,3039.75,2624.32,415.43,Retail,2024,9,3
+ORD1078,2025-03-31,Central,Rahul,Washing Machine,Home Appliances,2,411.66,0.0,823.32,627.54,195.78,Online,2025,3,1
+ORD1079,2025-04-06,West,Amit,Headphones,Accessories,4,1304.48,0.05,4957.02,3895.88,1061.14,Retail,2025,4,2
+ORD1080,2024-09-08,South,Vikram,Headphones,Accessories,3,1613.0,0.0,4839.0,3199.01,1639.99,Retail,2024,9,3
+ORD1081,2024-10-22,North,Deepa,Washing Machine,Home Appliances,4,1919.87,0.0,7679.48,5040.3,2639.18,Retail,2024,10,4
+ORD1082,2024-12-03,East,Vikram,Washing Machine,Home Appliances,4,1898.74,0.0,7594.96,4567.04,3027.92,Online,2024,12,4
+ORD1083,2024-02-22,South,Ramesh,Office Chair,Furniture,6,1572.6,0.05,8963.82,6785.66,2178.16,Online,2024,2,1
+ORD1084,2024-08-04,East,Anita,T-Shirt,Apparel,4,1820.29,0.1,6553.04,5333.16,1219.88,Distributor,2024,8,3
+ORD1085,2024-07-06,Central,Anita,Smartphone,Electronics,3,1592.61,0.0,4777.83,3471.22,1306.61,Retail,2024,7,3
+ORD1086,2025-01-14,South,Vikram,Smartphone,Electronics,4,3033.52,0.0,12134.08,8945.61,3188.47,Distributor,2025,1,1
+ORD1087,2025-05-07,West,Anita,Office Chair,Furniture,3,527.53,0.1,1424.33,1004.48,419.85,Distributor,2025,5,2
+ORD1088,2024-02-10,Central,Priya,Desk Lamp,Furniture,1,1464.16,0.15,1244.54,1100.35,144.19,Online,2024,2,1
+ORD1089,2024-06-05,East,Amit,Desk Lamp,Furniture,2,988.09,0.0,1976.18,1606.01,370.17,Distributor,2024,6,2
+ORD1090,2024-01-15,Central,Sneha,Office Chair,Furniture,5,1834.05,0.1,8253.23,7156.46,1096.77,Online,2024,1,1
+ORD1091,2024-03-05,East,Anita,Laptop,Electronics,1,1905.4,0.05,1810.13,1515.51,294.62,Distributor,2024,3,1
+ORD1092,2025-06-04,East,Ramesh,Office Chair,Furniture,5,1826.7,0.1,8220.15,7553.1,667.05,Distributor,2025,6,2
+ORD1093,2024-12-09,East,Rahul,Washing Machine,Home Appliances,3,854.44,0.1,2306.99,1827.61,479.38,Distributor,2024,12,4
+ORD1094,2024-05-08,West,Rahul,Jeans,Apparel,5,569.55,0.15,2420.59,1987.36,433.23,Retail,2024,5,2
+ORD1095,2025-10-09,West,Amit,Refrigerator,Home Appliances,2,1998.47,0.05,3797.09,2627.01,1170.08,Online,2025,10,4
+ORD1096,2025-04-16,West,Anita,Running Shoes,Footwear,3,1958.09,0.1,5286.84,3769.42,1517.42,Retail,2025,4,2
+ORD1097,2024-03-03,South,Deepa,Headphones,Accessories,7,2045.18,0.0,14316.26,11376.32,2939.94,Retail,2024,3,1
+ORD1098,2024-05-18,Central,Anita,Laptop,Electronics,2,1974.12,0.0,3948.24,3113.81,834.43,Distributor,2024,5,2
+ORD1099,2025-05-13,East,Sneha,Washing Machine,Home Appliances,1,2420.47,0.0,2420.47,1776.92,643.55,Online,2025,5,2
+ORD1100,2025-08-15,North,Sneha,Running Shoes,Footwear,3,3087.22,0.15,7872.41,6683.12,1189.29,Online,2025,8,3
+ORD1101,2025-01-26,West,Ramesh,Jeans,Apparel,3,1591.12,0.0,4773.36,3578.16,1195.2,Distributor,2025,1,1
+ORD1102,2025-11-05,West,Deepa,Desk Lamp,Furniture,6,1296.53,0.0,7779.18,5227.47,2551.71,Online,2025,11,4
+ORD1103,2025-02-22,North,Priya,Desk Lamp,Furniture,3,773.9,0.0,2321.7,1451.52,870.18,Online,2025,2,1
+ORD1104,2024-10-15,Central,Deepa,Smartphone,Electronics,3,2602.49,0.15,6636.35,5415.33,1221.02,Online,2024,10,4
+ORD1105,2025-01-13,North,Deepa,Headphones,Accessories,1,1836.21,0.1,1652.59,1137.22,515.37,Distributor,2025,1,1
+ORD1106,2025-05-04,Central,Anita,Running Shoes,Footwear,1,1335.36,0.15,1135.06,856.47,278.59,Distributor,2025,5,2
+ORD1107,2024-08-18,Central,Ramesh,T-Shirt,Apparel,3,1264.86,0.1,3415.12,2572.2,842.92,Online,2024,8,3
+ORD1108,2024-02-10,West,Deepa,Refrigerator,Home Appliances,3,1101.75,0.0,3305.25,2634.11,671.14,Distributor,2024,2,1
+ORD1109,2024-01-28,East,Deepa,Washing Machine,Home Appliances,2,1830.39,0.05,3477.74,2575.82,901.92,Retail,2024,1,1
+ORD1110,2024-05-14,North,Vikram,Washing Machine,Home Appliances,6,1735.84,0.05,9894.29,6679.98,3214.31,Retail,2024,5,2
+ORD1111,2024-07-19,East,Priya,Headphones,Accessories,1,735.12,0.0,735.12,498.31,236.81,Online,2024,7,3
+ORD1112,2024-02-02,West,Rahul,Washing Machine,Home Appliances,3,1539.2,0.0,4617.6,3896.72,720.88,Retail,2024,2,1
+ORD1113,2024-02-17,West,Anita,T-Shirt,Apparel,4,757.65,0.1,2727.54,1958.12,769.42,Retail,2024,2,1
+ORD1114,2025-05-17,North,Sneha,Desk Lamp,Furniture,2,818.65,0.1,1473.57,1309.75,163.82,Distributor,2025,5,2
+ORD1115,2025-02-10,North,Ramesh,Running Shoes,Footwear,3,544.37,0.0,1633.11,1134.08,499.03,Retail,2025,2,1
+ORD1116,2025-07-27,East,Ramesh,Desk Lamp,Furniture,4,2714.92,0.15,9230.73,7821.92,1408.81,Distributor,2025,7,3
+ORD1117,2024-04-08,Central,Sneha,Running Shoes,Footwear,3,2474.87,0.0,7424.61,5075.39,2349.22,Retail,2024,4,2
+ORD1118,2025-11-14,West,Deepa,Smartphone,Electronics,1,1585.67,0.1,1427.1,1307.16,119.94,Retail,2025,11,4
+ORD1119,2025-06-30,West,Rahul,Running Shoes,Footwear,6,1960.82,0.0,11764.92,8681.7,3083.22,Distributor,2025,6,2
+ORD1120,2025-09-04,Central,Amit,Desk Lamp,Furniture,2,2785.69,0.15,4735.67,3815.38,920.29,Distributor,2025,9,3
+ORD1121,2025-04-06,North,Priya,Desk Lamp,Furniture,7,1574.5,0.0,11021.5,8836.07,2185.43,Retail,2025,4,2
+ORD1122,2025-10-04,South,Amit,Refrigerator,Home Appliances,3,653.37,0.1,1764.1,1218.66,545.44,Retail,2025,10,4
+ORD1123,2024-01-05,South,Deepa,Office Chair,Furniture,4,1049.73,0.05,3988.97,3439.38,549.59,Retail,2024,1,1
+ORD1124,2024-08-05,East,Ramesh,Refrigerator,Home Appliances,5,1270.74,0.0,6353.7,3866.59,2487.11,Retail,2024,8,3
+ORD1125,2025-05-17,North,Amit,Office Chair,Furniture,4,2044.27,0.0,8177.08,6666.5,1510.58,Distributor,2025,5,2
+ORD1126,2025-02-01,North,Amit,Smartphone,Electronics,4,2142.24,0.0,8568.96,6150.51,2418.45,Online,2025,2,1
+ORD1127,2025-01-27,North,Rahul,Washing Machine,Home Appliances,2,1519.28,0.0,3038.56,2212.42,826.14,Retail,2025,1,1
+ORD1128,2024-07-25,North,Sneha,Running Shoes,Footwear,4,999.64,0.05,3798.63,2531.36,1267.27,Retail,2024,7,3
+ORD1129,2024-01-15,South,Priya,Headphones,Accessories,7,2426.98,0.05,16139.42,10478.62,5660.8,Online,2024,1,1
+ORD1130,2025-07-07,Central,Amit,Refrigerator,Home Appliances,4,1287.89,0.15,4378.83,3434.16,944.67,Distributor,2025,7,3
+ORD1131,2025-04-05,West,Ramesh,Washing Machine,Home Appliances,3,1176.9,0.0,3530.7,2554.7,976.0,Distributor,2025,4,2
+ORD1132,2025-11-21,South,Priya,Refrigerator,Home Appliances,5,1685.8,0.15,7164.65,5445.92,1718.73,Online,2025,11,4
+ORD1133,2025-07-28,Central,Amit,Office Chair,Furniture,1,1440.8,0.15,1224.68,1142.19,82.49,Retail,2025,7,3
+ORD1134,2024-08-28,East,Priya,T-Shirt,Apparel,1,1387.5,0.05,1318.12,1150.07,168.05,Online,2024,8,3
+ORD1135,2025-07-17,West,Deepa,Laptop,Electronics,6,2603.8,0.1,14060.52,11263.08,2797.44,Retail,2025,7,3
+ORD1136,2024-04-05,West,Rahul,Desk Lamp,Furniture,3,1618.0,0.0,4854.0,4071.58,782.42,Distributor,2024,4,2
+ORD1137,2025-04-29,Central,Vikram,Jeans,Apparel,2,1616.34,0.15,2747.78,2322.87,424.91,Retail,2025,4,2
+ORD1138,2025-02-10,West,Ramesh,Jeans,Apparel,2,2327.49,0.05,4422.23,3489.24,932.99,Retail,2025,2,1
+ORD1139,2024-08-18,South,Priya,Refrigerator,Home Appliances,2,1147.86,0.1,2066.15,1422.06,644.09,Online,2024,8,3
+ORD1140,2025-10-16,West,Ramesh,Office Chair,Furniture,1,1346.11,0.0,1346.11,1079.39,266.72,Retail,2025,10,4
+ORD1141,2024-06-19,East,Rahul,Running Shoes,Footwear,5,1170.55,0.0,5852.75,4913.63,939.12,Retail,2024,6,2
+ORD1142,2025-06-24,East,Anita,Refrigerator,Home Appliances,8,1358.34,0.15,9236.71,8339.98,896.73,Distributor,2025,6,2
+ORD1143,2024-02-05,East,Amit,T-Shirt,Apparel,1,1561.03,0.0,1561.03,1166.19,394.84,Online,2024,2,1
+ORD1144,2025-06-08,South,Ramesh,Running Shoes,Footwear,4,1678.76,0.15,5707.78,4352.35,1355.43,Online,2025,6,2
+ORD1145,2024-06-08,West,Deepa,Running Shoes,Footwear,1,1206.37,0.0,1206.37,851.02,355.35,Online,2024,6,2
+ORD1146,2025-11-29,East,Sneha,Desk Lamp,Furniture,3,2178.32,0.0,6534.96,4974.0,1560.96,Retail,2025,11,4
+ORD1147,2024-08-30,Central,Anita,Running Shoes,Footwear,3,143.75,0.15,366.56,310.61,55.95,Distributor,2024,8,3
+ORD1148,2024-03-26,East,Ramesh,T-Shirt,Apparel,4,2166.93,0.05,8234.33,6367.31,1867.02,Retail,2024,3,1
+ORD1149,2025-07-31,West,Vikram,Refrigerator,Home Appliances,4,1658.91,0.05,6303.86,5435.69,868.17,Online,2025,7,3
+ORD1150,2025-11-12,North,Sneha,Office Chair,Furniture,4,1281.17,0.0,5124.68,4269.61,855.07,Distributor,2025,11,4
+ORD1151,2025-07-10,Central,Rahul,Washing Machine,Home Appliances,1,906.83,0.0,906.83,546.25,360.58,Distributor,2025,7,3
+ORD1152,2025-07-27,West,Vikram,Jeans,Apparel,1,2798.85,0.15,2379.02,1869.41,509.61,Distributor,2025,7,3
+ORD1153,2025-10-07,East,Priya,Washing Machine,Home Appliances,2,1174.81,0.05,2232.14,1607.36,624.78,Online,2025,10,4
+ORD1154,2024-01-28,East,Rahul,Refrigerator,Home Appliances,3,569.33,0.0,1707.99,1388.95,319.04,Distributor,2024,1,1
+ORD1155,2025-09-11,Central,Rahul,Refrigerator,Home Appliances,3,1350.13,0.0,4050.39,3352.04,698.35,Online,2025,9,3
+ORD1156,2025-07-09,Central,Vikram,Headphones,Accessories,1,1377.47,0.1,1239.72,869.33,370.39,Online,2025,7,3
+ORD1157,2024-12-05,North,Vikram,Running Shoes,Footwear,4,1058.42,0.1,3810.31,3579.93,230.38,Retail,2024,12,4
+ORD1158,2024-11-26,East,Rahul,Smartphone,Electronics,6,2569.09,0.05,14643.81,10137.25,4506.56,Retail,2024,11,4
+ORD1159,2025-10-01,North,Priya,Desk Lamp,Furniture,2,1334.21,0.1,2401.58,1632.37,769.21,Online,2025,10,4
+ORD1160,2025-05-20,Central,Amit,Headphones,Accessories,2,1757.64,0.0,3515.28,2299.28,1216.0,Distributor,2025,5,2
+ORD1161,2024-12-13,East,Priya,Washing Machine,Home Appliances,4,2097.09,0.0,8388.36,6113.54,2274.82,Distributor,2024,12,4
+ORD1162,2025-04-17,West,Sneha,T-Shirt,Apparel,5,377.17,0.1,1697.27,1260.2,437.07,Retail,2025,4,2
+ORD1163,2024-08-18,West,Vikram,Jeans,Apparel,2,1060.81,0.1,1909.46,1724.98,184.48,Retail,2024,8,3
+ORD1164,2024-07-08,Central,Amit,Jeans,Apparel,1,1753.37,0.0,1753.37,1374.3,379.07,Online,2024,7,3
+ORD1165,2024-08-12,South,Vikram,Laptop,Electronics,2,1899.64,0.0,3799.28,2284.4,1514.88,Online,2024,8,3
+ORD1166,2025-01-19,South,Priya,Headphones,Accessories,2,1775.53,0.0,3551.06,2227.82,1323.24,Retail,2025,1,1
+ORD1167,2025-01-11,West,Deepa,Refrigerator,Home Appliances,3,1519.44,0.0,4558.32,3741.13,817.19,Online,2025,1,1
+ORD1168,2024-10-09,East,Vikram,Running Shoes,Footwear,5,1704.71,0.0,8523.55,6224.88,2298.67,Distributor,2024,10,4
+ORD1169,2025-09-24,South,Vikram,Jeans,Apparel,3,1818.99,0.0,5456.97,3493.01,1963.96,Retail,2025,9,3
+ORD1170,2025-09-19,North,Sneha,Headphones,Accessories,2,1035.87,0.05,1968.15,1699.67,268.48,Online,2025,9,3
+ORD1171,2024-09-15,North,Amit,Headphones,Accessories,4,1797.18,0.05,6829.28,5786.82,1042.46,Distributor,2024,9,3
+ORD1172,2024-12-24,Central,Vikram,Running Shoes,Footwear,3,2283.65,0.0,6850.95,4553.64,2297.31,Retail,2024,12,4
+ORD1173,2025-03-31,East,Ramesh,Refrigerator,Home Appliances,2,1671.55,0.15,2841.63,2278.69,562.94,Distributor,2025,3,1
+ORD1174,2025-02-14,West,Deepa,Laptop,Electronics,2,1889.4,0.15,3211.98,2534.95,677.03,Online,2025,2,1
+ORD1175,2025-10-10,West,Anita,Jeans,Apparel,1,1594.86,0.05,1515.12,1129.26,385.86,Online,2025,10,4
+ORD1176,2024-11-13,North,Sneha,Jeans,Apparel,3,1885.21,0.15,4807.29,3639.05,1168.24,Online,2024,11,4
+ORD1177,2025-11-07,East,Amit,Headphones,Accessories,3,1838.39,0.1,4963.65,4372.13,591.52,Distributor,2025,11,4
+ORD1178,2024-08-12,West,Vikram,Headphones,Accessories,3,2510.2,0.15,6401.01,5637.4,763.61,Retail,2024,8,3
+ORD1179,2024-08-21,West,Priya,Running Shoes,Footwear,2,1130.06,0.05,2147.11,1820.25,326.86,Retail,2024,8,3
+ORD1180,2025-11-14,East,Anita,Laptop,Electronics,3,2339.15,0.0,7017.45,4389.75,2627.7,Retail,2025,11,4
+ORD1181,2025-10-25,West,Deepa,Refrigerator,Home Appliances,4,1475.99,0.1,5313.56,4782.13,531.43,Distributor,2025,10,4
+ORD1182,2025-01-08,North,Deepa,Laptop,Electronics,3,1076.61,0.05,3068.34,2196.88,871.46,Retail,2025,1,1
+ORD1183,2025-11-02,East,Priya,Desk Lamp,Furniture,3,1216.67,0.15,3102.51,2982.17,120.34,Online,2025,11,4
+ORD1184,2025-08-30,Central,Deepa,Desk Lamp,Furniture,4,1290.54,0.0,5162.16,3214.95,1947.21,Online,2025,8,3
+ORD1185,2025-04-16,Central,Anita,Jeans,Apparel,2,1259.11,0.1,2266.4,1844.82,421.58,Distributor,2025,4,2
+ORD1186,2024-08-20,West,Amit,Washing Machine,Home Appliances,1,1175.01,0.05,1116.26,972.86,143.4,Distributor,2024,8,3
+ORD1187,2025-11-22,South,Vikram,Running Shoes,Footwear,3,1968.61,0.1,5315.25,3545.32,1769.93,Online,2025,11,4
+ORD1188,2024-04-22,North,Sneha,Headphones,Accessories,3,756.61,0.05,2156.34,1453.16,703.18,Distributor,2024,4,2
+ORD1189,2025-05-11,North,Ramesh,Laptop,Electronics,3,2158.21,0.0,6474.63,4586.06,1888.57,Online,2025,5,2
+ORD1190,2025-03-17,West,Priya,Headphones,Accessories,3,1031.49,0.1,2785.02,2610.73,174.29,Distributor,2025,3,1
+ORD1191,2025-07-17,East,Vikram,Desk Lamp,Furniture,8,2309.4,0.1,16627.68,11559.9,5067.78,Retail,2025,7,3
+ORD1192,2024-09-24,South,Deepa,T-Shirt,Apparel,2,763.75,0.0,1527.5,1048.64,478.86,Retail,2024,9,3
+ORD1193,2025-05-24,South,Rahul,Laptop,Electronics,3,1955.15,0.05,5572.18,4302.66,1269.52,Retail,2025,5,2
+ORD1194,2025-01-20,East,Vikram,Smartphone,Electronics,2,1764.45,0.05,3352.45,2401.5,950.95,Distributor,2025,1,1
+ORD1195,2025-01-21,East,Deepa,Headphones,Accessories,4,2037.56,0.1,7335.22,4974.06,2361.16,Distributor,2025,1,1
+ORD1196,2024-04-22,West,Anita,Office Chair,Furniture,3,1605.28,0.15,4093.46,3631.87,461.59,Distributor,2024,4,2
+ORD1197,2025-09-04,West,Deepa,Office Chair,Furniture,5,1940.15,0.0,9700.75,7720.4,1980.35,Distributor,2025,9,3
+ORD1198,2025-09-16,South,Ramesh,Washing Machine,Home Appliances,4,2175.74,0.1,7832.66,6268.1,1564.56,Online,2025,9,3
+ORD1199,2024-03-21,East,Deepa,Desk Lamp,Furniture,1,1732.07,0.1,1558.86,1110.26,448.6,Distributor,2024,3,1
+ORD1200,2025-11-29,South,Deepa,Smartphone,Electronics,4,3184.28,0.0,12737.12,8689.96,4047.16,Distributor,2025,11,4
+ORD1201,2024-04-22,Central,Anita,Laptop,Electronics,4,1787.98,0.1,6436.73,4369.22,2067.51,Online,2024,4,2
+ORD1202,2024-01-02,Central,Deepa,Smartphone,Electronics,2,1344.39,0.0,2688.78,1977.92,710.86,Retail,2024,1,1
+ORD1203,2025-10-03,South,Priya,Running Shoes,Footwear,2,2099.22,0.05,3988.52,2942.33,1046.19,Retail,2025,10,4
+ORD1204,2024-08-07,Central,Ramesh,Laptop,Electronics,2,2241.14,0.05,4258.17,2884.56,1373.61,Distributor,2024,8,3
+ORD1205,2025-07-19,Central,Ramesh,Office Chair,Furniture,6,1290.05,0.1,6966.27,5621.09,1345.18,Distributor,2025,7,3
+ORD1206,2024-08-12,North,Priya,Washing Machine,Home Appliances,4,2284.35,0.05,8680.53,6847.85,1832.68,Online,2024,8,3
+ORD1207,2025-01-19,North,Ramesh,Laptop,Electronics,5,1228.23,0.0,6141.15,4274.01,1867.14,Retail,2025,1,1
+ORD1208,2025-02-06,South,Vikram,Smartphone,Electronics,3,1761.85,0.0,5285.55,3966.61,1318.94,Retail,2025,2,1
+ORD1209,2025-09-29,North,Vikram,Office Chair,Furniture,3,2194.16,0.05,6253.36,4629.18,1624.18,Retail,2025,9,3
+ORD1210,2024-05-09,South,Sneha,T-Shirt,Apparel,1,1053.07,0.1,947.76,738.47,209.29,Distributor,2024,5,2
+ORD1211,2024-02-22,South,Rahul,Headphones,Accessories,4,1430.25,0.0,5721.0,4365.3,1355.7,Distributor,2024,2,1
+ORD1212,2025-11-14,West,Sneha,Running Shoes,Footwear,2,2358.38,0.15,4009.25,3297.79,711.46,Online,2025,11,4
+ORD1213,2025-11-02,South,Deepa,Refrigerator,Home Appliances,2,2268.81,0.1,4083.86,3725.06,358.8,Retail,2025,11,4
+ORD1214,2025-02-19,North,Deepa,Refrigerator,Home Appliances,3,1056.5,0.15,2694.07,2257.82,436.25,Online,2025,2,1
+ORD1215,2024-09-03,North,Deepa,Office Chair,Furniture,4,1712.07,0.15,5821.04,4758.46,1062.58,Retail,2024,9,3
+ORD1216,2025-03-14,West,Vikram,Running Shoes,Footwear,3,1853.61,0.05,5282.79,3957.04,1325.75,Online,2025,3,1
+ORD1217,2024-07-21,West,Deepa,Laptop,Electronics,4,2485.15,0.0,9940.6,8416.44,1524.16,Retail,2024,7,3
+ORD1218,2024-07-02,Central,Anita,Jeans,Apparel,1,881.33,0.05,837.26,568.46,268.8,Distributor,2024,7,3
+ORD1219,2024-05-02,East,Amit,Desk Lamp,Furniture,1,1814.62,0.05,1723.89,1135.64,588.25,Online,2024,5,2
+ORD1220,2025-02-04,Central,Amit,Jeans,Apparel,4,727.77,0.1,2619.97,2126.35,493.62,Retail,2025,2,1
+ORD1221,2024-10-20,South,Anita,Washing Machine,Home Appliances,3,1751.71,0.0,5255.13,3327.44,1927.69,Distributor,2024,10,4
+ORD1222,2024-10-06,East,Rahul,Laptop,Electronics,2,1633.66,0.0,3267.32,2114.24,1153.08,Retail,2024,10,4
+ORD1223,2025-09-01,West,Amit,Jeans,Apparel,2,1752.71,0.05,3330.15,2308.81,1021.34,Distributor,2025,9,3
+ORD1224,2024-07-16,South,Priya,Refrigerator,Home Appliances,5,1591.89,0.05,7561.48,6304.92,1256.56,Distributor,2024,7,3
+ORD1225,2025-05-25,West,Rahul,Washing Machine,Home Appliances,1,1583.38,0.0,1583.38,1264.93,318.45,Distributor,2025,5,2
+ORD1226,2024-05-23,East,Vikram,Headphones,Accessories,7,1671.21,0.05,11113.55,7949.44,3164.11,Retail,2024,5,2
+ORD1227,2025-08-31,East,Anita,Laptop,Electronics,4,1444.19,0.1,5199.08,3882.97,1316.11,Online,2025,8,3
+ORD1228,2024-07-19,South,Sneha,Desk Lamp,Furniture,1,2111.6,0.15,1794.86,1755.62,39.24,Retail,2024,7,3
+ORD1229,2024-05-03,North,Ramesh,Smartphone,Electronics,4,2347.12,0.05,8919.06,7672.5,1246.56,Distributor,2024,5,2
+ORD1230,2024-07-05,North,Deepa,Office Chair,Furniture,2,829.74,0.05,1576.51,1257.14,319.37,Distributor,2024,7,3
+ORD1231,2024-11-21,West,Anita,Laptop,Electronics,3,2582.22,0.0,7746.66,5710.26,2036.4,Retail,2024,11,4
+ORD1232,2025-04-08,North,Anita,Jeans,Apparel,4,905.76,0.0,3623.04,2755.84,867.2,Distributor,2025,4,2
+ORD1233,2024-12-14,North,Deepa,Refrigerator,Home Appliances,7,1656.04,0.1,10433.05,7271.02,3162.03,Online,2024,12,4
+ORD1234,2025-10-21,South,Amit,Smartphone,Electronics,2,1925.01,0.05,3657.52,2689.59,967.93,Retail,2025,10,4
+ORD1235,2025-02-06,North,Priya,Washing Machine,Home Appliances,5,682.85,0.15,2902.11,2416.32,485.79,Online,2025,2,1
+ORD1236,2024-12-11,West,Deepa,Office Chair,Furniture,2,1564.65,0.15,2659.91,2174.92,484.99,Retail,2024,12,4
+ORD1237,2025-05-25,Central,Rahul,Desk Lamp,Furniture,2,1690.02,0.0,3380.04,2192.43,1187.61,Retail,2025,5,2
+ORD1238,2024-05-26,Central,Ramesh,Refrigerator,Home Appliances,2,2524.59,0.0,5049.18,4202.94,846.24,Distributor,2024,5,2
+ORD1239,2024-05-27,East,Sneha,Running Shoes,Footwear,3,1639.05,0.1,4425.43,3832.47,592.96,Online,2024,5,2
+ORD1240,2025-05-03,East,Priya,Office Chair,Furniture,5,1664.66,0.15,7074.81,5378.07,1696.74,Distributor,2025,5,2
+ORD1241,2025-10-01,East,Amit,Desk Lamp,Furniture,3,1697.41,0.05,4837.62,4223.69,613.93,Online,2025,10,4
+ORD1242,2025-07-04,North,Deepa,Laptop,Electronics,2,1769.19,0.0,3538.38,2588.77,949.61,Distributor,2025,7,3
+ORD1243,2024-12-03,Central,Amit,Smartphone,Electronics,1,2576.17,0.05,2447.36,1547.37,899.99,Online,2024,12,4
+ORD1244,2025-10-02,South,Sneha,Laptop,Electronics,5,1768.53,0.15,7516.25,7308.21,208.04,Online,2025,10,4
+ORD1245,2025-04-17,Central,Sneha,Washing Machine,Home Appliances,3,959.29,0.05,2733.98,1944.04,789.94,Online,2025,4,2
+ORD1246,2024-05-30,Central,Amit,Refrigerator,Home Appliances,6,928.94,0.0,5573.64,3671.96,1901.68,Online,2024,5,2
+ORD1247,2025-02-18,Central,Vikram,Headphones,Accessories,4,1374.84,0.0,5499.36,3728.94,1770.42,Distributor,2025,2,1
+ORD1248,2024-10-24,North,Rahul,Smartphone,Electronics,2,1336.79,0.05,2539.9,2026.58,513.32,Online,2024,10,4
+ORD1249,2025-09-02,Central,Anita,Smartphone,Electronics,1,2376.35,0.0,2376.35,1510.04,866.31,Retail,2025,9,3
+ORD1250,2024-09-19,North,Rahul,Desk Lamp,Furniture,3,565.9,0.15,1443.04,1326.12,116.92,Online,2024,9,3
+ORD1251,2024-05-23,North,Deepa,Running Shoes,Footwear,1,512.93,0.05,487.28,351.5,135.78,Distributor,2024,5,2
+ORD1252,2024-12-11,Central,Priya,Running Shoes,Footwear,5,1904.77,0.15,8095.27,7132.77,962.5,Online,2024,12,4
+ORD1253,2025-09-15,Central,Amit,T-Shirt,Apparel,3,845.01,0.05,2408.28,1912.15,496.13,Retail,2025,9,3
+ORD1254,2025-07-25,North,Amit,Running Shoes,Footwear,4,827.32,0.1,2978.35,2476.01,502.34,Retail,2025,7,3
+ORD1255,2024-01-02,North,Deepa,Running Shoes,Footwear,3,1912.01,0.0,5736.03,3714.55,2021.48,Online,2024,1,1
+ORD1256,2024-10-30,East,Rahul,Laptop,Electronics,1,1250.21,0.0,1250.21,1061.27,188.94,Retail,2024,10,4
+ORD1257,2024-09-10,Central,Anita,Desk Lamp,Furniture,3,835.18,0.15,2129.71,1558.93,570.78,Distributor,2024,9,3
+ORD1258,2025-10-13,East,Deepa,T-Shirt,Apparel,4,722.0,0.15,2454.8,2326.14,128.66,Retail,2025,10,4
+ORD1259,2025-03-28,North,Priya,T-Shirt,Apparel,1,589.05,0.0,589.05,397.73,191.32,Retail,2025,3,1
+ORD1260,2024-02-06,West,Sneha,Desk Lamp,Furniture,4,1932.66,0.05,7344.11,5109.29,2234.82,Retail,2024,2,1
+ORD1261,2024-06-08,West,Ramesh,Laptop,Electronics,2,2382.05,0.05,4525.9,3164.61,1361.29,Retail,2024,6,2
+ORD1262,2024-01-09,East,Vikram,Office Chair,Furniture,5,1158.98,0.0,5794.9,4028.77,1766.13,Distributor,2024,1,1
+ORD1263,2024-08-20,West,Priya,Laptop,Electronics,2,1412.76,0.0,2825.52,2055.37,770.15,Online,2024,8,3
+ORD1264,2024-04-08,West,Priya,Office Chair,Furniture,5,1682.65,0.0,8413.25,6239.64,2173.61,Distributor,2024,4,2
+ORD1265,2025-10-20,North,Anita,Laptop,Electronics,3,2701.04,0.1,7292.81,5955.25,1337.56,Retail,2025,10,4
+ORD1266,2024-07-26,West,Amit,Refrigerator,Home Appliances,5,1789.06,0.15,7603.5,6088.46,1515.04,Retail,2024,7,3
+ORD1267,2024-05-10,East,Priya,Jeans,Apparel,1,1238.8,0.15,1052.98,790.91,262.07,Online,2024,5,2
+ORD1268,2025-02-07,South,Deepa,Washing Machine,Home Appliances,3,1561.62,0.0,4684.86,3372.34,1312.52,Retail,2025,2,1
+ORD1269,2024-05-31,Central,Anita,Laptop,Electronics,3,2354.73,0.05,6710.98,5824.89,886.09,Distributor,2024,5,2
+ORD1270,2024-02-23,South,Ramesh,T-Shirt,Apparel,6,1975.4,0.15,10074.54,7800.51,2274.03,Distributor,2024,2,1
+ORD1271,2024-04-29,Central,Amit,Jeans,Apparel,1,50.0,0.05,47.5,39.71,7.79,Online,2024,4,2
+ORD1272,2025-11-03,South,Vikram,Refrigerator,Home Appliances,1,1828.76,0.05,1737.32,1497.8,239.52,Retail,2025,11,4
+ORD1273,2025-09-19,North,Rahul,Headphones,Accessories,3,1571.03,0.15,4006.13,2848.7,1157.43,Distributor,2025,9,3
+ORD1274,2025-08-09,West,Priya,Headphones,Accessories,3,834.39,0.0,2503.17,1634.42,868.75,Online,2025,8,3
+ORD1275,2025-09-16,Central,Sneha,Desk Lamp,Furniture,4,1639.16,0.1,5900.98,4639.38,1261.6,Retail,2025,9,3
+ORD1276,2025-02-23,East,Rahul,Office Chair,Furniture,2,1145.44,0.05,2176.34,1476.34,700.0,Distributor,2025,2,1
+ORD1277,2025-02-25,East,Priya,Smartphone,Electronics,4,2427.23,0.0,9708.92,6390.04,3318.88,Online,2025,2,1
+ORD1278,2024-04-13,Central,Amit,Laptop,Electronics,2,2475.27,0.05,4703.01,3866.76,836.25,Retail,2024,4,2
+ORD1279,2024-09-10,West,Deepa,Jeans,Apparel,4,1712.66,0.1,6165.58,5010.39,1155.19,Retail,2024,9,3
+ORD1280,2024-08-14,East,Sneha,T-Shirt,Apparel,2,1709.1,0.0,3418.2,2263.34,1154.86,Retail,2024,8,3
+ORD1281,2024-04-21,West,Priya,Refrigerator,Home Appliances,1,1449.09,0.15,1231.73,1021.09,210.64,Retail,2024,4,2
+ORD1282,2025-05-24,Central,Vikram,Smartphone,Electronics,4,1233.63,0.0,4934.52,3989.93,944.59,Retail,2025,5,2
+ORD1283,2025-04-17,Central,Amit,Smartphone,Electronics,2,2516.48,0.0,5032.96,3101.08,1931.88,Retail,2025,4,2
+ORD1284,2024-04-08,South,Rahul,Refrigerator,Home Appliances,1,806.03,0.05,765.73,613.81,151.92,Retail,2024,4,2
+ORD1285,2024-06-01,North,Amit,Running Shoes,Footwear,2,1118.88,0.1,2013.98,1426.15,587.83,Online,2024,6,2
+ORD1286,2024-12-03,South,Ramesh,T-Shirt,Apparel,1,1305.2,0.0,1305.2,995.77,309.43,Distributor,2024,12,4
+ORD1287,2024-06-11,Central,Anita,Laptop,Electronics,6,2276.92,0.1,12295.37,8545.79,3749.58,Distributor,2024,6,2
+ORD1288,2025-11-11,North,Ramesh,Smartphone,Electronics,4,2162.59,0.1,7785.32,5737.48,2047.84,Online,2025,11,4
+ORD1289,2024-06-09,East,Ramesh,Jeans,Apparel,4,1416.64,0.1,5099.9,4037.6,1062.3,Distributor,2024,6,2
+ORD1290,2025-08-02,West,Vikram,Laptop,Electronics,3,1984.94,0.1,5359.34,3644.1,1715.24,Online,2025,8,3
+ORD1291,2025-02-01,East,Rahul,Jeans,Apparel,1,1629.61,0.1,1466.65,1281.77,184.88,Distributor,2025,2,1
+ORD1292,2024-10-03,East,Priya,Desk Lamp,Furniture,3,1505.01,0.0,4515.03,3146.52,1368.51,Online,2024,10,4
+ORD1293,2025-05-18,West,Ramesh,T-Shirt,Apparel,6,1228.7,0.0,7372.2,5182.9,2189.3,Retail,2025,5,2
+ORD1294,2025-01-26,East,Anita,Washing Machine,Home Appliances,3,1101.02,0.05,3137.91,2406.82,731.09,Online,2025,1,1
+ORD1295,2024-05-14,North,Priya,T-Shirt,Apparel,5,1427.63,0.15,6067.43,4301.5,1765.93,Online,2024,5,2
+ORD1296,2024-07-13,East,Anita,Headphones,Accessories,2,1981.1,0.0,3962.2,2696.49,1265.71,Online,2024,7,3
+ORD1297,2025-02-04,South,Vikram,Washing Machine,Home Appliances,1,1473.57,0.0,1473.57,1058.88,414.69,Distributor,2025,2,1
+ORD1298,2025-10-01,South,Priya,Headphones,Accessories,1,1915.81,0.1,1724.23,1398.91,325.32,Retail,2025,10,4
+ORD1299,2024-02-02,Central,Deepa,Jeans,Apparel,2,1486.16,0.15,2526.47,1815.89,710.58,Retail,2024,2,1
